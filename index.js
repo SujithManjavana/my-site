@@ -1,0 +1,1 @@
+document.getElementById("copy-right-txt").innerText="© "+new Date().getFullYear()+" Sujith S Manjavana."
